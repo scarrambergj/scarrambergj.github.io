@@ -1,11 +1,13 @@
-title: John Doe # your name (or website title) here
+title: Julián Scarramberg # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Soy estudiante de Actuario.
+  Adquirí conocimientos en el área de ciencia de datos que enriquecen y complementan mi perfil.
+  Mi objetivo laboral es desempeñarme como Data Scientist 
   <br><br>
-  Second description 
+   
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/julianscarramberg/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
